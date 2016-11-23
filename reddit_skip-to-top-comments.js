@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Skip to Top Comments
-// @namespace    http://tampermonkey.net/
+// @namespace    http://www.thomasmarren.com
 // @version      0.1
 // @description  Skip to each top comment on Reddit
 // @author       github.com/tmarren2090
