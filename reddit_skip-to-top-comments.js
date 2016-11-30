@@ -1,3 +1,6 @@
+// DISCLAIMER:
+// After writing this script I found out that Reddit Enhancement Suite does this already with shift-j
+
 // ==UserScript==
 // @name         Skip to Top Comments
 // @namespace    http://tampermonkey.net/
